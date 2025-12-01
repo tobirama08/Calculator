@@ -24,10 +24,7 @@ Supports basic arithmetic along with advanced operations like **percentage**, **
 
 ---
 
-## 🖥️ UI Preview
-*(Add screenshot here after uploading)*
 
----
 
 ## 🕹️ How It Works
 
@@ -39,11 +36,5 @@ Supports basic arithmetic along with advanced operations like **percentage**, **
 
 ---
 
-## ⚙️ Setup & Run
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/tobirama08/Calculator.git
-
-### 2️⃣ Navigate into folder
 
