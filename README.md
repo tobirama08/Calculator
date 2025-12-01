@@ -44,3 +44,6 @@ Supports basic arithmetic along with advanced operations like **percentage**, **
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/tobirama08/Calculator.git
+
+### 2️⃣ Navigate into folder
+
